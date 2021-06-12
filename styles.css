@@ -1,3 +1,4 @@
+/*myStyle.css*/
 body {
   background-color: black;
 }
@@ -11,12 +12,11 @@ p {
     ol.a{
       list-style-type:decimal;
     }
-  background-color:black,color: white;
-    }
+  
     
   ul.a{
-    list-style-type;disc;}
-      background-color:black,color:white;
-    }
+    list-style-type:disc;
+  }
+    
 }
 body

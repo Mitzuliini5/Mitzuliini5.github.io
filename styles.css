@@ -8,9 +8,12 @@ p {
   color: white;
   {
     ol.a {
-      list-style-type:decimal;}
+      list-style-type:decimal;
+    }
     
    ul.b {
-     list-style-type:disc;}
+     list-style-type:disc;
+    }
+    
     }
 body

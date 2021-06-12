@@ -8,15 +8,11 @@ p{
   color: white;
 }
     ol.a {
-      list-style-type:upper-alpfa;
-      color:white;
-      background:black;
+      list-style-type: upper-alpfa;color: white;background:black;
     }
     
    ul.b {
-     list-style-type:square;
-     color:white;
-     blackground:black;
+     list-style-type: square;color: white;blackground: black;
     }
     
    

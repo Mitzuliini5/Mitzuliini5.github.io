@@ -8,11 +8,11 @@ p {
   color: white;
   {
     
-ol{
+    ol.a{list-style-type:decimal;}
   background-color:black,color: white;
     }
     
-    ul{
+  ul.a{list-style-type;disc;}
       background-color:black,color:white;
     }
 }

@@ -8,10 +8,10 @@ p {
   color: white;
   {
     ol.a{
-      list-style-type:decimal;
+      list-style-type:decimal;,background-color:black;color:white;
     }
    ul.b{
-    list-style-type:disc;
+    list-style-type:disc;,background-color:black;color:white;
   }
     
 }

@@ -7,12 +7,12 @@ h1{
 p{
   color: white;
 }
-    ol {
-      list-style-type: upper-alpfa;color: white;background:black;
+    ol{
+      list-style-type: upper-alpfa;
     }
     
-   ul {
-     list-style-type: square;color: white;blackground: black;
+   ul{
+     list-style-type: square;
     }
     
    

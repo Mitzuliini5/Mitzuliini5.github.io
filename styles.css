@@ -1,5 +1,5 @@
-body {
-  background-color: black;
+body{
+  background-color:black;
 }
 h1{
   color: white;
@@ -7,14 +7,11 @@ h1{
 p {
   color: white;
   {
-    
     ol.a{
-      list-style-type:decimal;,background-color:black;,color:white;
+      list-style-type:decimal;
     }
-  
-    
-  ul.b{
-    list-style-type:disc;,background-color:black;color:white;
+   ul.b{
+    list-style-type:disc;
   }
     
 }

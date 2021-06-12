@@ -9,10 +9,12 @@ p{
 }
     ol{
       list-style-type: upper-alpfa;
+      color: white;
     }
     
    ul{
      list-style-type: square;
+     color: white;
     }
     
    

@@ -10,12 +10,12 @@ p {
   {
     
     ol.a{
-      list-style-type:decimal;
+      list-style-type:decimal;,background-color:black;,color:white;
     }
   
     
-  ul.a{
-    list-style-type:disc;
+  ul.b{
+    list-style-type:disc;,background-color:black;color:white;
   }
     
 }

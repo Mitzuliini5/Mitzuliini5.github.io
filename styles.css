@@ -6,7 +6,7 @@ h1{
 }
 p{
   color: white;
-  {
+}
     ol.a{
       list-style-type:upper-alpfa;
     }
@@ -15,5 +15,4 @@ p{
      list-style-type:square;
     }
     
-    }
-body
+   

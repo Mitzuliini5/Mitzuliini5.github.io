@@ -1,19 +1,14 @@
 body{
-  background-color:black;
-}
+  background-color:black;}
 h1{
-  color: white;
-}
+  color: white;}
 p{
-  color: white;
-  {
+  color: white;{
     ol.a{
-      list-style-type:upper-alpfa;
-    }
+      list-style-type:upper-alpfa;}
     
    ul.b {
-     list-style-type:square;
-    }
+     list-style-type:square;}
     
     }
 body

@@ -2,9 +2,6 @@ body {
   background-color:black;
 }
 h1{
-  border-style: dotted;
-  border-width: 2px;
-  border-height: 100px;
   color: white;
   font-size: 20px;
 }

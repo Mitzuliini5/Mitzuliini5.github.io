@@ -1,16 +1,16 @@
 body {
-background-color: black;
-color: white;
+background-color: gray;
+color: black;
 }
 
 h1 {
 color: white;
-font-size: 20px;
+font-size: 30px;
 }
 
 p {
 color: green;
-font-size: 12px;
+font-size: 20px;
 }
 
 ol {

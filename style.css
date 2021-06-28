@@ -9,6 +9,12 @@ font-size: 30px;
  text-align: center; 
 }
 
+h2 {
+ color: white;
+ font-size: 25px;
+ border-style: double;
+}
+ 
 p {
 color: green;
 font-size: 20px;

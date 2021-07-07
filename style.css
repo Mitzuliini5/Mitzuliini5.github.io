@@ -12,7 +12,9 @@ p  {
  color: white;
  font-size: 30px;
  font-align: center;
- border-style: 2px, dashed white;
+ border-style: dashed;
+ border-width: 2px;
+ border.color: white;
 }
 
 h1 {
